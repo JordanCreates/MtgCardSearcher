@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MtgCardSearcher/static/css/main.46139178.chunk.css",
+    "main.js": "/MtgCardSearcher/static/js/main.91f4d1a9.chunk.js",
+    "main.js.map": "/MtgCardSearcher/static/js/main.91f4d1a9.chunk.js.map",
+    "runtime~main.js": "/MtgCardSearcher/static/js/runtime~main.ab9f5e17.js",
+    "runtime~main.js.map": "/MtgCardSearcher/static/js/runtime~main.ab9f5e17.js.map",
+    "static/js/2.d71abc2d.chunk.js": "/MtgCardSearcher/static/js/2.d71abc2d.chunk.js",
+    "static/js/2.d71abc2d.chunk.js.map": "/MtgCardSearcher/static/js/2.d71abc2d.chunk.js.map",
+    "index.html": "/MtgCardSearcher/index.html",
+    "precache-manifest.e5649d7d459ccceb04615351f62866ec.js": "/MtgCardSearcher/precache-manifest.e5649d7d459ccceb04615351f62866ec.js",
+    "service-worker.js": "/MtgCardSearcher/service-worker.js",
+    "static/css/main.46139178.chunk.css.map": "/MtgCardSearcher/static/css/main.46139178.chunk.css.map"
+  }
+}
